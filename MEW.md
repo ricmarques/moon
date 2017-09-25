@@ -66,9 +66,9 @@ You can send your EXP tokens to any Testnet address.
 
 Testnet addresses are 40 hex characters / 160 bits like this one: `0x050A44D52CA4788b8C4CC0a8b8397cc9aD12B0B3`
 
-They can either belong to a user, a smart contract or, in the case of Pixels Camp, a project.
+They can either belong to a [user][20], a [smart contract][21] or, in the case of Pixels Camp, a [project][22].
 
-Once you know the destination address where to send tokens, then go the "Send Ether & Tokens" page in Mew, enter your private key or keystore file, press the "Load Tokens Balance" button, and then fill out the form with the desired amount of EXP you wish to send. Like this:
+Once you know the destination address where to send tokens, then go the "[Send Ether & Tokens][23]" page in Mew, enter your private key or keystore file, press the "Load Tokens Balance" button, and then fill out the form with the desired amount of EXP you wish to send. Like this:
 
 ![screenshot](imgs/sendexp.png)
 
@@ -101,3 +101,8 @@ Back to [Exposure][13]
 [17]: https://www.lastpass.com/
 [18]: https://www.passwordstore.org/
 [19]: https://wallet.pixels.camp/#view-wallet-info
+[20]: https://pixels.camp/celso
+[21]: https://github.com/PixelsCamp/moon/tree/master/contracts
+[22]: https://pixels.camp/projects/1
+[23]: https://wallet.pixels.camp/#send-transaction
+
