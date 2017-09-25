@@ -4,6 +4,8 @@ These are the source files for the [ERC20][4] Exposure (EXP) smart contract.
 
 We based EXP on the well tested [Consensys example][5] contracts.
 
+The production Exposure contract for Pixels Camp 2017 is published at the address 0x0ce335bb2d04595c84e3d444675360f64de386e8
+
 ## Install software
 
 The first thing you need to do is [install Solidity][2], a contract-oriented, high-level language whose syntax is similar to that of JavaScript, used to develop Ethereum smart contracts.
