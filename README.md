@@ -16,6 +16,10 @@ You can interact and inspect the contract [here][8], and sources are [here][9].
 
 The name was inspired by the famous [You're doing it for the exposure][2] cartoon from The Oatmeal.
 
+[![screenshot](imgs/exposure.png)][13]
+
+If don't know The Oatmeal, then you're missing out. Go ahead and support [Matthew Inman][16]'s work, check the [comics][15] and the [shop][14].
+
 ## Inital setup
 
 To start using EXP, first, you need to get yourself a wallet. In Ethereum, or most blockchains, the simplest form of a wallet is a public address, which you use to send money/tokens/data to, and a private key, which you should store securely in place no one can access.
@@ -32,6 +36,12 @@ There are many ways to create a wallet, and we're pretty sure that soon you'll b
  * Create wallet using the [Pixels Camp MEW website][10] (recommended)
  * Create wallet using the [Metamask][11] Chrome Extension
 
+## Receiving EXP tokens
+
+There are 3 ways to receive EXP tokens in your account.
+
+ 1. By participating and earning badges.
+
 [1]: https://theethereum.wiki/w/index.php/ERC20_Token_Standard
 [2]: http://theoatmeal.com/comics/exposure
 [3]: https://ens.domains/
@@ -43,3 +53,7 @@ There are many ways to create a wallet, and we're pretty sure that soon you'll b
 [9]: https://github.com/PixelsCamp/moon/tree/master/contracts
 [10]: MEW.md
 [11]: METAMASK.md
+[13]: http://theoatmeal.com/comics/exposure
+[14]: https://shop.theoatmeal.com/
+[15]: https://theoatmeal.com/
+[16]: https://en.wikipedia.org/wiki/The_Oatmeal
