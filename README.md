@@ -73,7 +73,7 @@ Here are the rules to create incentives for everyone, some of which were mention
  1. The EXPs invested in all the projects will be part of a big pot controlled by the organization.
  1. The investors that put money in the 10 winning projects, including their own team members, will receive all the EXPs in the big pot.
  1. Each winning investor will get a proportion of the total EXPs invested in the project and their personal investment.
- 1. This will act as the return of their investment and will hopefully be a good incentive to put EXPs in projects that deserve them. To put in other words, if you invested on a winning project, then you will be rich in the end.
+ 1. This will act as the return of their investment and will hopefully be a good incentive to put EXPs in projects that deserve them. To put in other words, if you invested on a winning project, then you will be rich in the end. If not, then you'll lose your EXPs.
  1. The investors with more EXPs in the end, after the final dividends distribution, will also win prizes and public recognition for their work.
 
 [1]: https://theethereum.wiki/w/index.php/ERC20_Token_Standard
