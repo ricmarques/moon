@@ -1,17 +1,17 @@
 # Pixels Camp Wallet
 
-Our wallet is based on the popular [MyEtherWallet][11] sofware, aka known as Mew. Mew sources can be found [here][12]. Mew is completely static and runs client-side in your web browser, which in turn connects to the Testnet RPC interface.
+Our wallet is based on the popular [MyEtherWallet][11] sofware, also known as `Mew`. `Mew` sources can be found [here][12]. `Mew` is completely static and runs client-side in your web browser, which in turn connects to the Testnet RPC interface.
 
 For convenience you can use our instance here: [https://wallet.pixels.camp/][13].
 
-If you're paranoid, you can download the [static files][14] to your computer, and run it locally. Works the same.
+If you're paranoid, you can download the [static files][14] to your computer, and run it locally. Works the same, but you'll get that warm fuzzy feeling that comes with doing your own thing.
 
-Mew is pretty nice. You can do the following operations with it:
+`Mew` is pretty nice. You can do the following operations with it:
 
  * Create new wallets
- * Send ether or EXP tokens to other addresses
+ * Send ether or `EXP` tokens to other addresses
  * Interact with smart contracts
- * Use ENS (At the time of writing this, we don't have ENS deployed in our Testnet)
+ * Use ENS (At the time of writing, we don't have ENS deployed in our Testnet)
  * Check the status of a transaction
  * View your wallet details
 
@@ -36,7 +36,7 @@ When you click the "Create New Wallet" button, you'll go through two screens:
 The best way to safely store your private key is:
 
  * Using a password manager such as [1Password][16], [Lastpass][17] or [pass][18]
- * Printing a paper wallet, and keeping it in a safe vault. Not in your desk!
+ * Printing a paper wallet, and keeping it in a safe vault. Not on your desk, or glued to your monitor!
 
 ## Get some Ether
 
@@ -46,33 +46,33 @@ Login to your [Pixels Camp account][7] and edit your profile. You'll find a "Moo
 
 ![screenshot](imgs/profile.png)
 
-Go back to Mew and open your wallet. In 1-2 minutes your account will show that you own 1000 ethers.
+Go back to `Mew` and open your wallet. In 1-2 minutes your account will show that you own 1000 ethers.
 
 You're ready.
 
-## Checking your EXP tokens
+## Checking your `EXP` tokens
 
-Our Mew is configured to show your EXP balance out of the box.
+Our `Mew` is configured to show your `EXP` balance out of the box.
 
 All you need to do is open your wallet with your private key or keystore file [here][19].
 
 ![screenshot](imgs/balance.png)
 
-## Sending EXP tokens to someone else
+## Sending `EXP` tokens to someone else
 
-You can send your EXP tokens to any Testnet address.
+You can send your `EXP` tokens to any Testnet address.
 
 Testnet addresses are 40 hex characters / 160 bits like this one: `0x050A44D52CA4788b8C4CC0a8b8397cc9aD12B0B3`
 
 They can either belong to a [user][20], a [smart contract][21] or, in the case of Pixels Camp, a [project][22].
 
-Once you know the destination address where to send tokens, then go the "[Send Ether & Tokens][23]" page in Mew, enter your private key or keystore file, press the "Load Tokens Balance" button, and then fill out the form with the desired amount of EXP you wish to send. Like this:
+Once you know the destination address where to send tokens, then go the "[Send Ether & Tokens][23]" page in `Mew`, enter your private key or keystore file, press the "Load Tokens Balance" button, and then fill out the form with the desired amount of `EXP` you wish to send. Like this:
 
 ![screenshot](imgs/sendexp.png)
 
 Then press "Generate Transaction", then "Send Transaction", then confirm the Warning popup, and you're done.
 
-The destination address will receive your EXPs in a few seconds, once the network mines a new block.
+The destination address will receive your `EXPs` in a few seconds, once the network mines a new block.
 
 ## Questions?
 
