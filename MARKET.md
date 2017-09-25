@@ -58,3 +58,5 @@ Use [Slack][8], channel `#blockchain`. We'll be around.
 Back to [Exposure][24]
 
 [1]: https://github.com/PixelsCamp/docs/blob/master/SLACK.md
+[8]: https://github.com/PixelsCamp/docs/blob/master/SLACK.md
+[24]: https://github.com/PixelsCamp/moon
