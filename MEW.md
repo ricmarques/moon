@@ -25,9 +25,11 @@ When you click the "Create New Wallet" button, you'll go through two screens.
 
 The first allows you to download a keystore file, which has your private key encrypted with the password you chose. Store it safely. You can use this file to open your wallet later.
 
-![copy address](img/keystore.png)
+![copy address](imgs/keystore.png)
 
 The second is your private key. This is the really important part. If you share your private key with anyone, or if it's stolen, then the thief will have full access to your wallet, no password required, and steal your funds and tokens.
+
+![copy address](imgs/privatekey.png)
 
 The best way to safely store your private is:
 
