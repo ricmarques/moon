@@ -82,7 +82,7 @@ The destination address will receive your EXPs in a few seconds, once the networ
 
 Use [Slack][8], channel `#blockchain`. We'll be around.
 
-Back to [Exposure][13]
+Back to [Exposure][24]
 
 [1]: https://ethereum.org/
 [2]: https://ethereum.org/ether
@@ -107,4 +107,5 @@ Back to [Exposure][13]
 [21]: https://github.com/PixelsCamp/moon/tree/master/contracts
 [22]: https://pixels.camp/projects/1
 [23]: https://wallet.pixels.camp/#send-transaction
+[24]: https://github.com/PixelsCamp/moon
 
