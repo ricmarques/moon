@@ -2,11 +2,7 @@
 
 Exposure is an [Ethereum ERC20][1] token specifically created for the Pixels Camp participants. Its primary purpose is to help developers get familiarized with the Ethereum Blockchain technology and to foster experimentation of new ideas and applications on top of it.
 
-Each new participant will be issued with Exposure tokens for every badge their earn. More badges equals more Expo$ure. Rare badges equals even more Expo$ure.
-
-Our digital coin can be used with many activities around the Pixels Camp event and community, including investing in the hackathon projects, essencially substituting the voting system, or buying services. You can see a list of uses below.
-
-The participants can also trade their tokens with anyone they wish.
+Our digital coin can be used with many activities around the Pixels Camp event and community, including investing in the hackathon projects, essencially substituting the voting system, or buying services. You can see a list of uses below. Our goal is to simulate a real life market and a [Nash equilibrium][20] using the Blockchain as the underlying decentralized and transparent platform.
 
 The symbol for Exposure is EXP.
 
@@ -76,3 +72,4 @@ You can spend your EXP tokens with:
 [17]: https://pixels.camp/badges/
 [18]: https://github.com/PixelsCamp/moon/blob/master/MEW.md#sending-exp-tokens-to-someone-else
 [19]: https://pixels.camp/projects/
+[20]: https://en.wikipedia.org/wiki/Nash_equilibrium
