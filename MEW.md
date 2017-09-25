@@ -15,6 +15,8 @@ Mew is pretty nice. You can do the following operations with it:
  * Check the status of a transaction
  * View your wallet details
 
+![screenshot](imgs/mewhome.png)
+
 ## Creating your wallet
 
 Creating a new wallet is really easy. Just go to [https://wallet.pixels.camp/#generate-wallet][15], type a password and press the "Create New Wallet" button.
