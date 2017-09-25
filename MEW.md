@@ -25,11 +25,11 @@ When you click the "Create New Wallet" button, you'll go through two screens.
 
 The first allows you to download a keystore file, which has your private key encrypted with the password you chose. Store it safely. You can use this file to open your wallet later.
 
-![copy address](imgs/keystore.png)
+![screenshot](imgs/keystore.png)
 
 The second is your private key. This is the really important part. If you share your private key with anyone, or if it's stolen, then the thief will have full access to your wallet, no password required, and steal your funds and tokens.
 
-![copy address](imgs/privatekey.png)
+![screenshot](imgs/privatekey.png)
 
 The best way to safely store your private is:
 
@@ -42,15 +42,39 @@ To get 1000 free ethers, you need to update your Pixels Camp user profile.
 
 First open Metamask again, and copy your public Ethereum address to the clipboard.
 
-![copy address](imgs/copy-address.png)
+![screenshot](imgs/copy-address.png)
 
 Now login to your [Pixels Camp account][7] and edit your profile. You'll find a "Moon Wallet" field. Copy your ethereum address and press enter.
 
-![copy address](imgs/profile.png)
+![screenshot](imgs/profile.png)
 
 Go back to Metamask and watch. In 1-2 minutes your wallet will show that you own 1000 ethers.
 
 You're ready.
+
+## Checking your EXP tokens
+
+Our Mew is configured to show your EXP balance out of the box.
+
+All you need to do is open your wallet with your private key or keystore file [here][19].
+
+![screenshot](imgs/balance.png)
+
+## Sending EXP tokens to someone else
+
+You can send your EXP tokens to any Testnet address.
+
+Testnet addresses are 40 hex characters / 160 bits like this one: `0x050A44D52CA4788b8C4CC0a8b8397cc9aD12B0B3`
+
+They can either belong to a user, a smart contract or, in the case of Pixels Camp, a project.
+
+Once you know the destination address where to send tokens, then go the "Send Ether & Tokens" page in Mew, enter your private key or keystore file, press the "Load Tokens Balance" button, and then fill out the form with the desired amount of EXP you wish to send. Like this:
+
+![screenshot](imgs/sendexp.png)
+
+Then press "Generate Transaction", then "Send Transaction", then confirm the Warning popup, and you're done.
+
+The destination address will receive your EXPs in a few seconds, once the network mines a new block.
 
 ## Questions?
 
@@ -76,3 +100,4 @@ Back to [Exposure][13]
 [16]: https://1password.com/
 [17]: https://www.lastpass.com/
 [18]: https://www.passwordstore.org/
+[19]: https://wallet.pixels.camp/#view-wallet-info
