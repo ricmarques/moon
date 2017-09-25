@@ -1,0 +1,19 @@
+{
+  "name": "Exposure",
+  "version": "1.0.0",
+  "description": "Exposure Smart Contract",
+  "main": "",
+  "scripts": {
+    "test": "exit 0",
+    "build": "yarn run bin & yarn run abi",
+    "bin": "solc --bin src/HumanStandardToken.sol -o build --overwrite",
+    "abi": "solc --abi src/HumanStandardToken.sol -o build --overwrite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eth-new-contract": "^0.3.0",
+    "ethereumjs-tx": "^1.3.3",
+    "web3": "0.20.1"
+  }
+}
