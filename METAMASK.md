@@ -44,9 +44,9 @@ Metamask supports ERC20 tokens out of the box, so this is a simple operation.
  * Type `0x0ce335bb2d04595c84e3d444675360f64de386e8` in the Token Contract Address. The other fields should auto-configure.
  * Click Add.
 
-You're done. You can now see how many EXP tokens you have.
+You're done. You can now see how many `EXP` tokens you have.
 
-Unfortunately, you [can't use Metamask to send EXP tokens][11] to other accounts. You'll have to use our [Wallet][12] for that.
+Unfortunately, you [can't use Metamask to send `EXP` tokens][11] to other accounts. You'll have to use our [Wallet][12] for that.
 
 ## Questions?
 
