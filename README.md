@@ -40,8 +40,9 @@ There are 5 ways to earn EXP tokens in your account.
 
  1. By participating and earning [badges][17]. For each badge you earn, you get EXPs. Each badge equals to 100 EXPs, but some badges are worth more (ex: the quiz show winners).
  1. By convincing other participants to send you their EXPs. We don't interfere here.
+ 1. By convincing the angels (the new jury) to invest in you or your project.
  1. By selling a service in the marketplace by which participants pay you for (same as above, basically).
- 1. By investing in a winning project.
+ 1. By investing in a winning project, and receiving the dividens at the end.
  1. By solving a very special scavenger hunt we setup for you, and accessing a wealthy pot of EXP. You'll be an EXP whale.
 
 Just remember that in order to earn tokens, first you must setup your account/wallet and then you must put your public address in your profile page. **If you don't do this, then you're out of the market**.
