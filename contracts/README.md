@@ -4,7 +4,7 @@ These are the source files for the [ERC20][4] Exposure (EXP) smart contract.
 
 We based EXP on the well tested [Consensys example][5] contracts.
 
-The production Exposure contract for Pixels Camp 2017 is published at the address 0x0ce335bb2d04595c84e3d444675360f64de386e8
+The production Exposure contract for Pixels Camp 2017 is published at the address `0x0ce335bb2d04595c84e3d444675360f64de386e8`.
 
 ## Install software
 
@@ -57,8 +57,14 @@ WIP
 abi = <content from ./build/HumanStandardToken.abi>
 code = "<content from ./build/HumanStandardToken.bin>"
 contract = web3.eth.contract(abi);
-contract.new(100000000, 'Exposure', '0', 'EXP', {"from": web3.eth.accounts[0], "gas": 4000000, "data": code}, function(e,j){console.log(e,j)});
+contract.new(100000000, 'Exposure', '0', 'EXP',
+  {"from": web3.eth.accounts[0], "gas": 4000000, "data": code},
+  function(e,j) {
+    console.log(e,j)
+  });
 ```
+
+*Tip for OSX users*: `cat build/HumanStandardToken.abi | pbcopy`
 
 This will deploy the contract and mint 100,000,000 EXP tokens.
 
