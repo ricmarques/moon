@@ -57,11 +57,11 @@ You can spend your EXP tokens with:
 
 ## Equilibrium
 
-For the market to work and have liquidity, one must be very careful with the incentives in place. We thought about this for a while, and to be honest there's a good chance we will be doing it wrong. There's no dangerous place like a place packed with creative technology hackers to deconstruct a model you thought would work... on paper.
+For the market to work and have liquidity, one must be very careful with the incentives in place. We thought about this for a while and made a few simulations, but to be honest there's a good chance we will be doing it wrong. There's no dangerous place like a place packed with creative technology hackers to deconstruct a model you thought would work... on paper.
 
 But again, this is all a big, fun and educative experiment based on principles of full decentralization and transparency, so even if we blow it, we're also pretty sure you're going to love the process and learn from it, as we will. Furthermore last year our voting platform was... Slack, [so the bar is low][33].
 
-So here are the rules to create incentives for everyone and maintain equilibrium, some of which were mentioned already:
+Here are the rules to create incentives for everyone, some of which were mentioned already, and maintain equilibrium:
 
  1. Each badge equals to 100 EXPs in the participant's account, but some badges are worth more (ex: the quiz show winners).
  1. You can [transfer][18] or accumulate EXPs to and from other [users][30], [smart contracts][31] or [projects][32].
@@ -69,7 +69,7 @@ So here are the rules to create incentives for everyone and maintain equilibrium
  1. There is special scavenger hunt in place, that once solved, will make someone rich. ~50000 EXPs rich.
  1. There are about ~20 angels with 25000 EXPs each to invest. This is the new jury.
  1. By the end of the projects presentations (30 minutes later) we will take a full snapshop of the Blockchain and run our scripts on it. The block number used to calculate the final results will be made public.
- 1. The 10 projects with more EXP invested on them by then, will win the Pixels Camp hackathon and get prizes.
+ 1. The 10 projects with more EXP invested on them by then, will win the Pixels Camp hackathon and get the prizes.
  1. The EXPs invested in all the projects will be part of a big pot controlled by the organization.
  1. The investors that put money in the 10 winning projects, including their own team members, will receive all the EXPs in the big pot.
  1. Each winning investor will get a proportion of the total EXPs invested in the project and their personal investment.
