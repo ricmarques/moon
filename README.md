@@ -29,14 +29,14 @@ Two things you _need_ to know:
 
 ### Creating the wallet
 
-There are many ways to create a wallet, and we're pretty sure that soon you'll be digging into the command line and hacking away using `python` or `nodejs` to manage this task, but for the time being, let's keep it simple. Here are two GUI-based methods to create a wallet without any hassle:
+There are many ways to create a wallet, and we're pretty sure that soon you'll be [digging][44] into the command line and hacking away using `python` or `nodejs` to manage this task, but for the time being, let's keep it simple. Here are two GUI-based methods to create a wallet without any hassle:
 
  * Create a wallet using the [Pixels Camp Wallet][10] (recommended)
  * Create a wallet using the [Metamask][11] Chrome Extension
 
 ## Earning `EXP` tokens
 
-There are 5 ways to earn `EXP` tokens and get them into your account.
+There are 6 ways to earn `EXP` tokens and get them into your account.
 
  1. By participating and earning [badges][17]. For each badge you earn, you get `EXP`s. Each badge equals 100 `EXP`s, but some badges are worth more (ex: the quiz show winners).
  1. By convincing other participants to send you their `EXP`s. We don't interfere here - just keep it civil `:)`
@@ -136,6 +136,7 @@ If you want to know more about Ethereum, we suggest you start here:
 [41]: https://github.com/gobitfly/etherchain-light
 [42]: http://moon.pixels.camp:8548/
 [43]: https://github.com/gobitfly/erc20-explorer
+[44]: https://github.com/PixelsCamp/moon/tree/master/examples
 [101]: https://ethereum.org/
 [102]: https://ethereum.org/ether
 [103]: http://consensys.github.io/developers/articles/101-noob-intro/
