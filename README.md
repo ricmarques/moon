@@ -85,7 +85,7 @@ Here is a list of tools that will help you navigate through the world of a Block
  * [Pixels Camp Wallet][22], and how to [setup][10] your wallet.
  * [Block explorer][40], based on [Etherchain light][41].
  * [ERC20 explorer][42], source [here][43].
- * Example scripts and code snippets to get you started with advanced stuff.
+ * [Example scripts][34] and code snippets to get you started with advanced stuff.
 
 ## Technical information
 
@@ -131,6 +131,7 @@ If you want to know more about Ethereum, we suggest you start here:
 [31]: https://github.com/PixelsCamp/moon/tree/master/contracts
 [32]: https://pixels.camp/projects/1
 [33]: https://youtu.be/yDHg3st_IEk?t=187
+[34]: https://github.com/PixelsCamp/moon/tree/master/examples
 [40]: http://moon.pixels.camp:8547/
 [41]: https://github.com/gobitfly/etherchain-light
 [42]: http://moon.pixels.camp:8548/
