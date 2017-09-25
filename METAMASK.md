@@ -46,13 +46,13 @@ Metamask supports ERC20 tokens out of the box, so this is a simple operation.
 
 You're done. You can now see how many EXP tokens you have.
 
-Unfortunately, you [can't use Metamask to send EXP tokens][11] to other accounts. You'll have to use our [Wallet][MEW.md] for that.
+Unfortunately, you [can't use Metamask to send EXP tokens][11] to other accounts. You'll have to use our [Wallet][12] for that.
 
 ## Questions?
 
 Use [Slack][8], channel `#blockchain`. We'll be around.
 
-Back to [Exposure][README.md]
+Back to [Exposure][13]
 
 [1]: https://ethereum.org/
 [2]: https://ethereum.org/ether
@@ -65,3 +65,5 @@ Back to [Exposure][README.md]
 [9]: http://moon.pixels.camp:8547/
 [10]: https://github.com/gobitfly/etherchain-light
 [11]: http://metamask.consensyssupport.happyfox.com/kb/article/4-managing-tokens
+[12]: MEW.md
+[13]: README.md
