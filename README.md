@@ -57,7 +57,7 @@ You can spend your `EXP` tokens by:
 
 ## Equilibrium
 
-For the market to work and have liquidity, one must be very careful with the incentives in place. We thought about this for a while and made a few simulations, but to be honest there's a good chance we will be doing it wrong. There's no dangerous place like an hackathon packed with top technology wizards to deconstruct a model you thought would work... on paper.
+For the market to work and have liquidity, one must be very careful with the incentives in place. We thought about this for a while and made a few simulations, but to be honest there's a good chance we will be doing it wrong. There's no dangerous place like a hackathon packed with top technology wizards to deconstruct a model you thought would work... on paper.
 
 But again, this is all a big, fun and educational experiment based on the principles of full decentralization and transparency, so even if we blow it, we're also pretty sure you're going to love the process and learn from it, just as we will. Furthermore last year our voting platform was... Slack, [so the bar is low][33].
 
