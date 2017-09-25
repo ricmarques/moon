@@ -4,12 +4,9 @@ const Web3 = require('web3');
 const Tx = require('ethereumjs-tx')
 
 /*
-
    Two articles worth reading:
-
      - http://hypernephelist.com/2016/12/13/compile-deploy-ethereum-smart-contract-web3-solc.html
      - http://hypernephelist.com/2017/01/19/deploy-ethereum-smart-contract-using-client-signature.html
-
 */
 
 
@@ -26,7 +23,7 @@ for(var i in abi) {
 }
 */
 
-var privateKey = new Buffer('...');
+var privateKey = new Buffer('...','hex');
 
 // Contract object
 
@@ -36,9 +33,6 @@ const contract = web3.eth.contract(abi);
 const contractData = contract.new.getData(1234567890, 'Teste', '2', 'TST', {
     data: '0x' + code
 });
-
-eth.pendingTransactions
-
 
 const gasPrice = web3.eth.gasPrice;
 const gasPriceHex = web3.toHex(gasPrice);
@@ -57,6 +51,8 @@ const rawTx = {
     data: contractData,
     from: web3.eth.coinbase
 };
+
+console.log(rawTx);
 
 // sign the transaction
 
@@ -94,36 +90,3 @@ function waitForTransactionReceipt(hash) {
     }
 }
 
-
-
-/*
-
-// Deploy contract instance
-const contractInstance = contract.new(
-    100000000, // 100M tokens minted at birth
-    'Exposure',
-    '0',
-    'EXP',
-    {
-        data: '0x' + code,
-        from: web3.eth.coinbase,
-        gas: 90000*2
-    }
-    , (err, res) => {
-        if (err) {
-            console.log(err);
-            return;
-        }
-
-        // Log the tx, you can explore status with eth.getTransaction()
-        console.log(res.transactionHash);
-
-        // If we have an address property, the contract was deployed
-        if (res.address) {
-            console.log('Contract address: ' + res.address);
-// Let's test the deployed contract
-            testContract(res.address);
-        }
-    });
-
-*/
