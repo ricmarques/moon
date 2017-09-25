@@ -41,7 +41,7 @@ There are 5 ways to earn EXP tokens in your account.
  1. By participating and earning [badges][17]. For each badge you earn, you get EXPs. Each badge equals to 100 EXPs, but some badges are worth more (ex: the quiz show winners).
  1. By convincing other participants to send you their EXPs. We don't interfere here.
  1. By convincing the angels (the new jury) to invest in you or your project.
- 1. By selling a service in the marketplace by which participants pay you for (same as above, basically).
+ 1. By selling a service in the [marketplace][21] by which participants pay you for (same as above, basically).
  1. By investing in a winning project, and receiving the dividens at the end.
  1. By solving a very special scavenger hunt we setup for you, and accessing a wealthy pot of EXP. You'll be an EXP whale.
 
@@ -53,7 +53,7 @@ You can spend your EXP tokens with:
 
  1. [Offering them][18] to other participants.
  1. Investing in the hackathon [projects][19] you like the most.
- 1. Buying services from the market.
+ 1. Buying services from the [marketplace][21].
 
 [1]: https://theethereum.wiki/w/index.php/ERC20_Token_Standard
 [2]: http://theoatmeal.com/comics/exposure
@@ -74,3 +74,4 @@ You can spend your EXP tokens with:
 [18]: https://github.com/PixelsCamp/moon/blob/master/MEW.md#sending-exp-tokens-to-someone-else
 [19]: https://pixels.camp/projects/
 [20]: https://en.wikipedia.org/wiki/Nash_equilibrium
+[21]: MARKET.md
