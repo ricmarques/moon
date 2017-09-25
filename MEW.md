@@ -15,7 +15,7 @@ Mew is pretty nice. You can do the following operations with it:
  * Check the status of a transaction
  * View your wallet details
 
-![screenshot](imgs/mewhome.png)
+[![screenshot](imgs/mewhome.png)][13]
 
 ## Creating your wallet
 
