@@ -68,6 +68,8 @@ Here are the rules to create incentives for everyone, some of which were mention
  1. You can buy or sell services using the [marketplace][21].
  1. There is special scavenger hunt in place, that once solved, will make someone rich. ~50000 EXPs rich.
  1. There are about ~20 angels with 25000 EXPs each to invest. This is the new jury.
+ 1. The project wallets are owned by Pixels Camp and not by the team that created the project.
+ 1. All the EXPs invested in the projects during the event will stay in their wallets, locked, and can't be used until the end. Think of your project as a crowdfunding campaign.
  1. By the end of the projects presentations (30 minutes later) we will take a full snapshop of the Blockchain and run our scripts on it. The block number used to calculate the final results will be made public.
  1. The 10 projects with more EXP invested on them by then, will win the Pixels Camp hackathon and get the prizes.
  1. The EXPs invested in all the projects will be part of a big pot controlled by the organization.
@@ -75,6 +77,34 @@ Here are the rules to create incentives for everyone, some of which were mention
  1. Each winning investor will get a proportion of the total EXPs invested in the project and their personal investment.
  1. This will act as the return of their investment and will hopefully be a good incentive to put EXPs in projects that deserve them. To put in other words, if you invested on a winning project, then you will be rich in the end. If not, then you'll lose your EXPs.
  1. The investors with more EXPs in the end, after the final dividends distribution, will also win prizes and public recognition for their work.
+
+## Tools
+
+Here is a list of tools that will help you navigate through the world of a Blockchain:
+
+ * [Pixels Camp Wallet][22], and how to [setup][10] your wallet.
+ * [Block explorer][40], based on [Etherchain light][41].
+ * [ERC20 explorer][42], source [here][43].
+ * Example scripts and code snippets to get you started with advanced stuff.
+
+## Technical information
+
+Our Testnet runs on Azure, courtesy of Microsof Portugal. It has 4 nodes, 2 of which are mining (geths), and 2 other are used to expose the RPC interface (geth) and support the block explorers (parity).
+
+We've tuned the network dificulty to mine new blocks very frequently, every 10 seconds more or less.
+
+The RPC interface lives at: `http://moon.pixels.camp:8545`
+
+*Please don't abuse the Testnet with DDoS requests, unnecessary traffic or other possible exploits. This is a big experiment built for the Pixels Camp community to learn and have fun, not for profit and hacking purposes. We know it's tempting, but be cooperative.*
+
+## Technical documentation
+
+If you want to know more about Ethereum, we suggest you start here:
+
+ - [Main website][101]
+ - [What is ether][102]
+ - [A 101 Noob Intro to Programming Smart Contracts on Ethereum][103]
+ - [Contract tutorial][104]
 
 [1]: https://theethereum.wiki/w/index.php/ERC20_Token_Standard
 [2]: http://theoatmeal.com/comics/exposure
@@ -96,7 +126,16 @@ Here are the rules to create incentives for everyone, some of which were mention
 [19]: https://pixels.camp/projects/
 [20]: https://en.wikipedia.org/wiki/Nash_equilibrium
 [21]: MARKET.md
+[22]: https://wallet.pixels.camp
 [30]: https://pixels.camp/celso
 [31]: https://github.com/PixelsCamp/moon/tree/master/contracts
 [32]: https://pixels.camp/projects/1
 [33]: https://youtu.be/yDHg3st_IEk?t=187
+[40]: http://moon.pixels.camp:8547/
+[41]: https://github.com/gobitfly/etherchain-light
+[42]: http://moon.pixels.camp:8548/
+[43]: https://github.com/gobitfly/erc20-explorer
+[101]: https://ethereum.org/
+[102]: https://ethereum.org/ether
+[103]: http://consensys.github.io/developers/articles/101-noob-intro/
+[104]: https://github.com/ethereum/go-ethereum/wiki/Contract-Tutorial
