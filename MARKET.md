@@ -32,6 +32,12 @@ buy 7 0x3D417b8305aA60688385a1Ca56530130C77F8739
 
 This will trigger a private message with instructions on how to proceed for your payment.
 
+**help**
+
+Self explanatory.
+
+You must send the commands in public in the #market channel. We think this will create awareness and dynamics for other users.
+
 ## Selling a service
 
 You can apply to sell a service of your own in the market too.
