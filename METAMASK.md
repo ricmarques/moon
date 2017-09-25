@@ -8,11 +8,11 @@ Once installed, open MetaMask and create a new vault. By default, the vault will
 
 Now click on the top left as it shows in the image and then choose `Custom RPC`.
 
-![add custom tesnet](img/add-testnet.png)
+![add custom tesnet](imgs/add-testnet.png)
 
 Now add `http://moon.pixels.camp:8545` to the RPC address field.
 
-![add custom tesnet](img/add-rpc.png)
+![add custom tesnet](imgs/add-rpc.png)
 
 That's it. You're now connected to our testnet, and you have your own Ethereum address.
 
@@ -22,11 +22,11 @@ To get 1000 free ethers, you need to update your Pixels Camp user profile.
 
 First open Metamask again, and copy your public Ethereum address to the clipboard.
 
-![copy address](img/copy-address.png)
+![copy address](imgs/copy-address.png)
 
 Now login to your [Pixels Camp account][7] and edit your profile. You'll find a "Moon Wallet" field. Copy your ethereum address and press enter.
 
-![copy address](img/profile.png)
+![copy address](imgs/profile.png)
 
 Go back to Metamask and watch. In 1-2 minutes your wallet will show that you own 1000 ethers.
 
