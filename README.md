@@ -29,7 +29,7 @@ Two things you need to know:
 
 ### Creating the wallet
 
-There are many ways to create a wallet, and we're pretty sure that soon you'll be digging into command line python or nodejs code to manage this task, but for the time being, let's keep it simple. Here are two methods, GUI based to create your wallet:
+There are many ways to create a wallet, and we're pretty sure that soon you'll be digging into [command line][44] python or nodejs code to manage this task, but for the time being, let's keep it simple. Here are two methods, GUI based to create your wallet:
 
  * Create wallet using the [Pixels Camp Wallet][10] (recommended)
  * Create wallet using the [Metamask][11] Chrome Extension
@@ -57,7 +57,7 @@ You can spend your EXP tokens with:
 
 ## Equilibrium
 
-For the market to work and have liquidity, one must be very careful with the incentives in place. We thought about this for a while and made a few simulations, but to be honest there's a good chance we will be doing it wrong. There's no dangerous place like a place packed with creative technology hackers to deconstruct a model you thought would work... on paper.
+For the market to work and have liquidity, one must be very careful with the incentives in place. We thought about this for a while and made a few simulations, but to be honest there's a good chance we will be doing it wrong. There's no dangerous place like an hackathon packed with top technology wizards to deconstruct a model you thought would work... on paper.
 
 But again, this is all a big, fun and educative experiment based on principles of full decentralization and transparency, so even if we blow it, we're also pretty sure you're going to love the process and learn from it, as we will. Furthermore last year our voting platform was... Slack, [so the bar is low][33].
 
@@ -95,7 +95,7 @@ We've tuned the network dificulty to mine new blocks very frequently, every 10 s
 
 The RPC interface lives at: `http://moon.pixels.camp:8545`
 
-*Please don't abuse the Testnet with DDoS requests, unnecessary traffic or other possible exploits. This is a big experiment built for the Pixels Camp community to learn and have fun, not for profit and hacking purposes. We know it's tempting, but be cooperative.*
+*Please don't abuse the Testnet with DDoS requests, unnecessary traffic or other possible exploits. This is a big experiment built for the Pixels Camp community to learn and have fun, not for profit or hacking purposes. We know it's tempting, but be cooperative please.*
 
 ## Technical documentation
 
@@ -136,6 +136,7 @@ If you want to know more about Ethereum, we suggest you start here:
 [41]: https://github.com/gobitfly/etherchain-light
 [42]: http://moon.pixels.camp:8548/
 [43]: https://github.com/gobitfly/erc20-explorer
+[44]: https://github.com/PixelsCamp/moon/tree/master/examples
 [101]: https://ethereum.org/
 [102]: https://ethereum.org/ether
 [103]: http://consensys.github.io/developers/articles/101-noob-intro/
