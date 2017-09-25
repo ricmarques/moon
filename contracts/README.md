@@ -64,7 +64,7 @@ This will deploy the contract and mint 100,000,000 EXP tokens.
  * Now wait from the transactionHash and the contract addresss. This may take a few seconds, depending on the test mining speed.
  * If the contract address doesn't show up, you can inspect the transactionHash here: https://wallet.pixels.camp/#check-tx-status
 
-![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/ricardo_paiagua.jpg?raw=true)
+![Image](https://github.com/PixelsCamp/moon/blob/master/imgs/deplyimg1.png?raw=true)
 
 Your contract is now ready to use.
 
