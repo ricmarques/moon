@@ -35,7 +35,7 @@ Two things you need to know:
 
 There are many ways to create a wallet, and we're pretty sure that soon you'll be digging into command line python or nodejs code to manage this task, but for the time being, let's keep it simple. Here are two methods, GUI based to create your wallet:
 
- * Create wallet using the [Pixels Camp MEW website][10] (recommended)
+ * Create wallet using the [Pixels Camp Wallet][10] (recommended)
  * Create wallet using the [Metamask][11] Chrome Extension
 
 ## Earning EXP tokens
@@ -49,6 +49,14 @@ There are 5 ways to earn EXP tokens in your account.
  1. By solving a very special scavenger hunt we setup for you, and accessing a wealthy pot of EXP. You'll be an EXP whale.
 
 Just remember that in order to earn tokens, first you must setup your account/wallet and then you must put your public address in your profile page. **If you don't do this, then you're out of the market**.
+
+## Spending EXP tokens
+
+You can spend your EXP tokens with:
+
+ 1. [Offering them][18] to other participants.
+ 1. Investing in the hackathon [projects][19] you like the most.
+ 1. Buying services from the market.
 
 [1]: https://theethereum.wiki/w/index.php/ERC20_Token_Standard
 [2]: http://theoatmeal.com/comics/exposure
@@ -66,3 +74,5 @@ Just remember that in order to earn tokens, first you must setup your account/wa
 [15]: https://theoatmeal.com/
 [16]: https://en.wikipedia.org/wiki/The_Oatmeal
 [17]: https://pixels.camp/badges/
+[18]: https://github.com/PixelsCamp/moon/blob/master/MEW.md#sending-exp-tokens-to-someone-else
+[19]: https://pixels.camp/projects/
