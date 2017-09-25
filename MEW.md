@@ -40,11 +40,11 @@ To get 1000 free ethers, you need to update your Pixels Camp user profile.
 
 First open Metamask again, and copy your public Ethereum address to the clipboard.
 
-![copy address](img/copy-address.png)
+![copy address](imgs/copy-address.png)
 
 Now login to your [Pixels Camp account][7] and edit your profile. You'll find a "Moon Wallet" field. Copy your ethereum address and press enter.
 
-![copy address](img/profile.png)
+![copy address](imgs/profile.png)
 
 Go back to Metamask and watch. In 1-2 minutes your wallet will show that you own 1000 ethers.
 

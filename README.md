@@ -41,5 +41,5 @@ There are many ways to create a wallet, and we're pretty sure that soon you'll b
 [7]: https://github.com/ethereum/mist
 [8]: https://wallet.pixels.camp/#contracts
 [9]: https://github.com/PixelsCamp/moon/tree/master/contracts
-[10]: https://wallet.pixels.camp
+[10]: MEW.md
 [11]: METAMASK.md
