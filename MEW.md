@@ -21,36 +21,32 @@ Mew is pretty nice. You can do the following operations with it:
 
 Creating a new wallet is really easy. Just go to [https://wallet.pixels.camp/#generate-wallet][15], type a password and press the "Create New Wallet" button.
 
-This password is NOT your private key. It's just an extra level of local security that encrypts your new private key. Remember: all that matters to the network is your private key.
+This password is NOT your private key. It's just an extra level of local security that encrypts your new private key. Remember: all that matters to the network are the transactions signed with your private key.
 
-When you click the "Create New Wallet" button, you'll go through two screens.
+When you click the "Create New Wallet" button, you'll go through two screens:
 
-The first allows you to download a keystore file, which has your private key encrypted with the password you chose. Store it safely. You can use this file to open your wallet later.
+ * The first allows you to download a keystore file, which has your private key encrypted with the password you chose. Store it safely. You can use this file to open your wallet later.
 
 ![screenshot](imgs/keystore.png)
 
-The second is your private key. This is the really important part. If you share your private key with anyone, or if it's stolen, then the thief will have full access to your wallet, no password required, and steal your funds and tokens.
+ * The second is your private key. This is the really important part. If you share your private key with anyone, or if it's stolen, then the thief will have full access to your wallet, no password required, and steal your funds and tokens.
 
 ![screenshot](imgs/privatekey.png)
 
-The best way to safely store your private is:
+The best way to safely store your private key is:
 
- * In a password manager such as [1Password][16], [Lastpass][17] or [pass][18]
+ * Using a password manager such as [1Password][16], [Lastpass][17] or [pass][18]
  * Printing a paper wallet, and keeping it in a safe vault. Not in your desk!
 
 ## Get some Ether
 
 To get 1000 free ethers, you need to update your Pixels Camp user profile.
 
-First open Metamask again, and copy your public Ethereum address to the clipboard.
-
-![screenshot](imgs/copy-address.png)
-
-Now login to your [Pixels Camp account][7] and edit your profile. You'll find a "Moon Wallet" field. Copy your ethereum address and press enter.
+Login to your [Pixels Camp account][7] and edit your profile. You'll find a "Moon Wallet" field. Copy your public wallet address and press enter.
 
 ![screenshot](imgs/profile.png)
 
-Go back to Metamask and watch. In 1-2 minutes your wallet will show that you own 1000 ethers.
+Go back to Mew and open your wallet. In 1-2 minutes your account will show that you own 1000 ethers.
 
 You're ready.
 
