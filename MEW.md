@@ -1,49 +1,38 @@
-# The Moon Ethereum Testnet
+# Pixels Camp Wallet
 
-This year's Pixels Camp is going full steam on experimenting with blockchain, and we want the whole community to join us and be part of the action.
+Our wallet is based on the popular [MyEtherWallet][11] sofware, aka known as Mew. Mew sources can be found [here][12]. Mew is completely static and runs client-side in your web browser, which in turn connects to the Testnet RPC interface.
 
-So we've decided to build the playground infrastructure precisely for that. Meet our Moon Ethereum Testnet.
+For convenience you can use our instance here: [https://wallet.pixels.camp/][13].
 
-We decided to go with [Ethereum][1] because it adds a distributed computing platform to the blockchain, which opens the door to a broad number of applications and innovation on top of it, and we think it's the perfect setup for what we want to do.
+If you're paranoid, you can download the [static files][14] to your computer, and run it locally. Works the same.
 
-If you want to know more about Ethereum, we suggest you start here:
+Mew is pretty nice. You can do the following operations with it:
 
- - [Main website][1]
- - [What is ether][2]
- - [A 101 Noob Intro to Programming Smart Contracts on Ethereum][3]
- - [Contract tutorial][4]
+ * Create new wallets
+ * Send ether or EXP tokens to other addresses
+ * Interact with smart contracts
+ * Use ENS (At the time of writing this, we don't have ENS deployed in our Testnet)
+ * Check the status of a transaction
+ * View your wallet details
 
-The Moon Ethereum test network is now up and running. You can connect your favorite client to it, get free ethers and start coding, deploying smart contracts, trading or whatever you feel in the mood to do with it.
+## Creating your wallet
 
-The RPC address is http://moon.pixels.camp:8545
+Creating a new wallet is really easy. Just go to [https://wallet.pixels.camp/#generate-wallet][15], type a password and press the "Create New Wallet" button.
 
-## Our soon to be announced token
+This password is NOT your private key. It's just an extra level of local security that encrypts your new private key. Remember: all that matters to the network is your private key.
 
-We're working to deploy a special token in this test network, managed by a smart contrat we're now testing. Like the badges system, this token will be issued to participants in the proportion of their activity. You'll be able to stuff with it at the event. It will be both fun and useful.
+When you click the "Create New Wallet" button, you'll go through two screens.
 
-It will be called... well, it's a surprise. More on this real soon.
+The first allows you to download a keystore file, which has your private key encrypted with the password you chose. Store it safely. You can use this file to open your wallet later.
 
-Meanwhile, here's how you can get your own testnet address and earn free ether to start learning and playing.
+![copy address](img/keystore.png)
 
-## Creating an account
+The second is your private key. This is the really important part. If you share your private key with anyone, or if it's stolen, then the thief will have full access to your wallet, no password required, and steal your funds and tokens.
 
-To create an account, you have plenty of options.
+The best way to safely store your private is:
 
-The simpliest way we know is by using [MetaMask][6], a Chrome extension that provides an identity vault and a connection to an Ethereum network, public or private.
-
-Click [here][5] to install the extension in Chrome.
-
-Once installed, open MetaMask and create a new vault. By default, the vault will be connected to the Ropsten Test Network.
-
-Now click on the top left as it shows in the image and then choose `Custom RPC`.
-
-![add custom tesnet](img/add-testnet.png)
-
-Now add `http://moon.pixels.camp:8545` to the RPC address field.
-
-![add custom tesnet](img/add-rpc.png)
-
-That's it. You're now connected to our testnet, and you have your own Ethereum address.
+ * In a password manager such as [1Password][16], [Lastpass][17] or [pass][18]
+ * Printing a paper wallet, and keeping it in a safe vault. Not in your desk!
 
 ## Get some Ether
 
@@ -61,19 +50,11 @@ Go back to Metamask and watch. In 1-2 minutes your wallet will show that you own
 
 You're ready.
 
-## Blockchain explorer
-
-We provide a public Blockchain explorer at [http://moon.pixels.camp:8547/][9].
-
-It's based on [Etherchain Light][10]. You can use it to browse blocks, transactions, accounts and contracts, upload & verify contract sources and much more.
-
 ## Questions?
 
 Use [Slack][8], channel `#blockchain`. We'll be around.
 
-## Network settings
-
-This private Ethereum network is mined by our servers and creates a new block every ~1 minute.
+Back to [Exposure][13]
 
 [1]: https://ethereum.org/
 [2]: https://ethereum.org/ether
@@ -85,3 +66,11 @@ This private Ethereum network is mined by our servers and creates a new block ev
 [8]: https://github.com/PixelsCamp/docs/blob/master/SLACK.md
 [9]: http://moon.pixels.camp:8547/
 [10]: https://github.com/gobitfly/etherchain-light
+[11]: https://www.myetherwallet.com/
+[12]: https://github.com/kvhnuke/etherwallet
+[13]: https://wallet.pixels.camp/
+[14]: https://github.com/PixelsCamp/moon/tree/master/wallet
+[15]: https://wallet.pixels.camp/#generate-wallet
+[16]: https://1password.com/
+[17]: https://www.lastpass.com/
+[18]: https://www.passwordstore.org/
