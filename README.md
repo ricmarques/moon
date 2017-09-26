@@ -99,7 +99,7 @@ Here's a simple simulation with only 2 winning projects (instead of 10, for simp
 
 These formulas might help too:
 
-![screenshot](imgs/calculations.png | width=640)
+![screenshot](imgs/calculations.png)
 
 ## Tools
 
