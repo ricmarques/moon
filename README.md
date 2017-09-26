@@ -73,10 +73,15 @@ Here are the rules to create incentives for everyone (some of which were mention
  1. By the end of the project presentations (30 minutes later) we will take a full snapshop of the Blockchain and run our scripts on it. The block number used to calculate the final results will be made public.
  1. The 10 projects with more `EXP` invested on them by then, will win the Pixels Camp hackathon and get the prizes.
  1. The `EXP`s invested in all the projects will be part of a big pot controlled by the organization.
- 1. The investors that put money in the 10 winning projects, including their own team members, will receive all the `EXP`s in the big pot.
- 1. Each winning investor will get a proportion of the total `EXP`s invested in the project and their personal investment.
+ 1. The big pot is then divided by the 10 winning projects, in the proportion their funds at count time. For example, if the project 1 had 10x more funds than project 2, then it will receive 10x more from the big pot. Each of the 10 winning projects ends up with a winning pot.
+ 1. The winning pot is then divided between 70% for the team members, and 30% for the project investors.
+ 1. Each investor will get a proportion of the total `EXP`s they invested in the project.
+ 1. Each team member will get an equal part of the 70% from winning pot EXPs.
+ 1. A team member can also be an investor.
  1. This will act as the return of their investment and will hopefully be a good incentive to put `EXP`s in projects that deserve them. To put in other words, if you invested on a winning project, then you will be rich in the end. If not, then you'll lose your `EXP`s.
- 1. The investors with more `EXP`s in the end, after the final dividends distribution, will also win prizes and public recognition for their work.
+ 1. Team members from losing projects get nothing.
+ 1. Investors in losing projects lose all their invested EXPs.
+ 1. The participants with more `EXP`s in the end, after the final dividends distribution, will also win prizes and public recognition for their work as entrepeneurs and investors.
 
 ## Tools
 
