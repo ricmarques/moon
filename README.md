@@ -85,17 +85,17 @@ Here are the rules to create incentives for everyone (some of which were mention
 
 Here's a simple simulation with only 2 winning projects (instead of 10, for simplification):
 
- * At the end of the competition, the sum of all 50 projects funds is 30,000,000 `EXP`s. This is the `big pot`.
- * Winning project number 1 had 200,000 `EXP`s at the time of counting.
- * Winning project number 2 had 100,000 `EXP`s at the time of counting.
- * Project number 1 winning pot will be 20,000,000 `EXP`s.
- * Project number 2 winning pot will be 10,000,000 `EXP`s.
- * Team members from project number 1 will receive 20,000,000 * 70% = 14,000,000 `EXP`s, divided into equal parts.
- * Team members from project number 2 will receive 10,000,000 * 70% = 7,000,000 `EXP`s, divided into equal parts.
- * Investor A invested 50,000 `EXP`s in project 1. He owns 25% of the investor's pool.
- * Investor A will receive 20,000,000 * 30% = 6,000,000 `EXP`s * 25% = 1,500,000 `EXP`s.
- * Investor B invested 10,000 `EXP`s in project 2. He owns 10% of the investor's pool.
- * Investor B will receive 10,000,000 * 30% = 3,000,000 `EXP`s * 10% = 300,000 `EXP`s.
+ * At the end of the competition, the sum of all 50 projects funds is **30,000,000 `EXP`**s. This is the `big pot`.
+ * Winning project number 1 had **200,000 `EXP`**s at the time of counting.
+ * Winning project number 2 had **100,000 `EXP`**s at the time of counting.
+ * Project number 1 winning pot will be **20,000,000 `EXP`**s.
+ * Project number 2 winning pot will be **10,000,000 `EXP`**s.
+ * Team members from project number 1 will receive **20,000,000 * 70%** = **14,000,000 `EXP`**s, divided into equal parts between them.
+ * Team members from project number 2 will receive **10,000,000 * 70%** = **7,000,000 `EXP`**s, divided into equal parts between them.
+ * Investor A invested **50,000 `EXP`**s in project 1. He owns 25% of the investor's pool.
+ * Investor A will receive **20,000,000 * 30%** = **6,000,000 `EXP`**s * 25% = **1,500,000 `EXP`**s.
+ * Investor B invested **10,000 `EXP`**s in project 2. He owns 10% of the investor's pool.
+ * Investor B will receive **10,000,000 * 30%** = **3,000,000 `EXP`**s * 10% = **300,000 `EXP`**s.
 
 ## Tools
 
