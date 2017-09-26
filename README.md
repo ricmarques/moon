@@ -72,16 +72,30 @@ Here are the rules to create incentives for everyone (some of which were mention
  1. All the `EXP`s invested in the projects during the event will stay in their wallets, locked, and can't be used until the end. Think of your project as a crowdfunding campaign.
  1. By the end of the project presentations (30 minutes later) we will take a full snapshop of the Blockchain and run our scripts on it. The block number used to calculate the final results will be made public.
  1. The 10 projects with more `EXP` invested on them by then, will win the Pixels Camp hackathon and get the prizes.
- 1. The `EXP`s invested in all the projects will be part of a big pot controlled by the organization.
- 1. The big pot is then divided by the 10 winning projects, in the proportion their funds at count time. For example, if the project 1 had 10x more funds than project 2, then it will receive 10x more from the big pot. Each of the 10 winning projects ends up with a winning pot.
- 1. The winning pot is then divided between 70% for the team members, and 30% for the project investors.
+ 1. The `EXP`s invested in all the projects will be part of a `big pot` controlled by the organization.
+ 1. The `big pot` is then divided by the 10 winning projects, in the proportion their funds at count time. For example, if the project 1 had 10x more funds than project 2, then it will receive 10x more from the big pot. Each of the 10 winning projects ends up with a `winning pot`.
+ 1. The `winning pot` is then divided between 70% for the team members, and 30% for the project investors.
  1. Each investor will get a proportion of the total `EXP`s they invested in the project.
- 1. Each team member will get an equal part of the 70% from winning pot EXPs.
+ 1. Each team member will get an equal part of the 70% from `winning pot` `EXP`s.
  1. A team member can also be an investor.
  1. This will act as the return of their investment and will hopefully be a good incentive to put `EXP`s in projects that deserve them. To put in other words, if you invested on a winning project, then you will be rich in the end. If not, then you'll lose your `EXP`s.
  1. Team members from losing projects get nothing.
- 1. Investors in losing projects lose all their invested EXPs.
+ 1. Investors in losing projects lose all their invested `EXP`s.
  1. The participants with more `EXP`s in the end, after the final dividends distribution, will also win prizes and public recognition for their work as entrepeneurs and investors.
+
+Here's a simple simulation with only 2 winning projects (instead of 10, for simplification):
+
+ * At the end of the competition, the sum of all 50 projects funds is 30,000,000 `EXP`s. This is the `big pot`.
+ * Winning project number 1 had 200,000 `EXP`s at the time of counting.
+ * Winning project number 2 had 100,000 `EXP`s at the time of counting.
+ * Project number 1 winning pot will be 20,000,000 `EXP`s.
+ * Project number 2 winning pot will be 10,000,000 `EXP`s.
+ * Team members from project number 1 will receive 20,000,000 * 70% = 14,000,000 `EXP`s, divided into equal parts.
+ * Team members from project number 2 will receive 10,000,000 * 70% = 7,000,000 `EXP`s, divided into equal parts.
+ * Investor A invested 50,000 `EXP`s in project 1. He owns 25% of the investor's pool.
+ * Investor A will receive 20,000,000 * 30% = 6,000,000 `EXP`s * 25% = 1,500,000 `EXP`s.
+ * Investor B invested 10,000 `EXP`s in project 2. He owns 10% of the investor's pool.
+ * Investor B will receive 10,000,000 * 30% = 3,000,000 `EXP`s * 10% = 300,000 `EXP`s.
 
 ## Tools
 
