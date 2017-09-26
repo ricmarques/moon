@@ -97,6 +97,10 @@ Here's a simple simulation with only 2 winning projects (instead of 10, for simp
  * Investor B invested **10,000** `EXP`s in project 2. He owns **10%** of the investor's pool.
  * Investor B will receive **10,000,000** * **30%** = **3,000,000** `EXP`s * **10%** = **300,000** `EXP`s.
 
+These formulas might help too:
+
+![screenshot](imgs/calculations.png)]
+
 ## Tools
 
 Here is a list of tools that will help you navigate through the world of Blockchain:
