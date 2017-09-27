@@ -24,11 +24,11 @@ A few notes:
 
 * boost, one of the dependencies takes ages to compile, even on fast machines. It's normal.
 
-We're assuming you have a recent version of [Node][7] and [yarn][3] installed. They are script for these scripts to tun.
+We're assuming you have a recent version of [Node][7] and [yarn][3] installed. They are necessary for these scripts to run.
 
 ## Build the Exposure Smart Contract
 
-To install depencies run:
+To install dependencies run:
 
 ```
 yarn install
@@ -50,7 +50,7 @@ WIP
 
 ### Using Metamask
 
- * Open Metamask and unlock the wallet that you wish to own the deployed contract (you can change the ownsership later)
+ * Open Metamask and unlock the wallet that you wish to own the deployed contract (you can change the ownership later)
  * Open the Javascript console and type:
 
 ```
